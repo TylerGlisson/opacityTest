@@ -1,0 +1,19 @@
+.outerDiv {
+  text-align: center;
+  padding: 20px;
+}
+.initialClass {
+  opacity: 1;
+  transition: opacity 3s;
+  text-align: center;
+  background: tan;
+  height: 200px;
+}
+.newClass {
+  opacity: 0;
+}
+.btn {
+  color: red;
+  padding: 10px;
+}
+
